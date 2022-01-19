@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>1408.jpg</filename>
+	<path>D:\DATA\raspberry\checkout_dataset\data\1408.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ruler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>298</ymin>
+			<xmax>740</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>
