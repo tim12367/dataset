@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>152.jpg</filename>
+	<path>D:\data\152.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>webcam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>556</xmin>
+			<ymin>213</ymin>
+			<xmax>784</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>
