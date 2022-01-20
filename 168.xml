@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>168.jpg</filename>
+	<path>D:\data\168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>webcam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>635</xmin>
+			<ymin>311</ymin>
+			<xmax>912</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>

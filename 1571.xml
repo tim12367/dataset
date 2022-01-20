@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>1571.jpg</filename>
+	<path>D:\data\1571.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ruler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>229</ymin>
+			<xmax>945</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>
