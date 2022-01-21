@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>218.jpg</filename>
+	<path>D:\DATA\raspberry\checkout_dataset\data\218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>661</xmin>
+			<ymin>159</ymin>
+			<xmax>887</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>
