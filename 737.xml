@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>737.jpg</filename>
+	<path>D:\DATA\raspberry\checkout_dataset\data\737.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>webcam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>267</ymin>
+			<xmax>834</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+</annotation>
